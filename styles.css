@@ -1,0 +1,15 @@
+.character-card {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 10px;
+  width: 300px;
+
+  background-color: antiquewhite;
+}
+
+.character-card img {
+  width: 300px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
